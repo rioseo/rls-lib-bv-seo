@@ -1,15 +1,12 @@
 {
-    "name": "rioseo/bazaarvoice-seo-sdk-php",
-    "description": "Php libraries for Bazaarvoice SEO SDK integration",
+    "name": "rioseo/rls-lib-bv-seo",
+    "description": "Bazaarvoice SEO SDK for PHP.",
     "license": "private",
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:rioseo/seo_sdk_php"
-        }
     ],
     "require": {
     },
     "require-dev": {
+        "squizlabs/php_codesniffer": "^2.5"
     }
 }
